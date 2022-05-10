@@ -76,9 +76,7 @@ class WindowClass(QMainWindow, form_class_main):
                                     self.data_list[motion_class.index(i)].append(name)
                                     print(self.data_list)
                                 else:
-                                    passgit remote add origin https://github.com/Hojun-Son/Modi.git
-git branch -M main
-git push -u origin main
+                                    pass
                     else:
                         pass
 
